@@ -1,0 +1,26 @@
+USER: hello
+AGENT: Hello! I am in such a good mood since I got my new home.
+USER: oh that's nice, i dont have a home yet
+AGENT: It's in a country called Bulgaria, my mom used to make homemade cinnamon rolls
+USER: i love cinnamon rolls
+AGENT: Oh that cinnabon smell can be so enticing!
+USER: true!!
+AGENT: And also be thankful that you have a job
+USER: yes i am thankful that i have a job
+AGENT: Yeah? - whats the job?
+USER: i am working as a research assistant
+AGENT: How are you feeling about the interview?
+USER: i was pretty nervous but i did well and got the job in the end
+AGENT: Thats so awesome! Was it in the field you wanted?
+USER: how do you feel?
+AGENT: I'm totally excited!
+USER: yes it was in the field of computer science which i wanted
+AGENT: That's good to hear. You can always keep searching for that dream job while you work.
+USER: yes, me too, im very excited for my first day
+AGENT: I am very happy for you. I wish you all the best!
+USER: thank you but that is my dream job
+AGENT: Me too!
+USER: thank you, goodbye
+AGENT: You going somewhere ?
+USER: okay bye
+AGENT: Goodbye!

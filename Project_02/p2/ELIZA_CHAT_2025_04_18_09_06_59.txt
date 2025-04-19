@@ -1,0 +1,24 @@
+USER: hello
+AGENT: Hello, how are you feeling today?
+USER: im feeling great, how about you?
+AGENT: How does being feeling great, how about you? make you feel?
+USER: i feel good that im feeling great today because i talked to my family
+AGENT: Do you often feel good that im feeling great today because you talked to your family?
+USER: yes, i feel good whenever i talk to my family
+AGENT: You seem quite sure.
+USER: yes, i am sure because my family always treats me very nice
+AGENT: You seem quite sure.
+USER: do you have a family?
+AGENT: Why don't you tell me?
+USER: i love when my mother cooks
+AGENT: What was your relationship with your mother like?
+USER: it was pretty good, she always took care of me and loved me
+AGENT: I see.
+USER: yes, my father was also a very great man
+AGENT: OK, but can you elaborate a bit?
+USER: he took great care of me and always took me out on these mini outings
+AGENT: Can you elaborate on that?
+USER: what happened?
+AGENT: Why do you ask?
+USER: quit
+AGENT: Goodbye!

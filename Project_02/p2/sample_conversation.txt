@@ -1,0 +1,18 @@
+USER: hello how are you
+ELIZA: Hi there... how are you today?
+USER: I am good
+ELIZA: How do you feel about being good?
+USER: I feel amazing, I got a promotion today.
+ELIZA: When you feel amazing, you got a promotion today., what do you do?
+USER: I work for a research lab at UIC
+ELIZA: Let's change focus a bit... Tell me about your family.
+USER: I have 2 brothers
+ELIZA: Have you really 2 brothers?
+USER: yes!
+ELIZA: OK, but can you elaborate a bit?
+USER: I love them, they are my life
+ELIZA: How does that make you feel?
+USER: being with them makes me happy
+ELIZA: How do you feel when you say that?
+USER: ok bye
+ELIZA: Goodbye! Take care.

@@ -1,0 +1,24 @@
+USER: hello
+AGENT: Hello! I am in such a good mood since I got my new home.
+USER: oh that's nice
+AGENT: Yeah, fall is my favorite season with pumpkin festivals and pumpkin pie!  
+USER: where is it
+AGENT: Near galveston,tx.
+USER: oh okay, what is tx famous for?
+AGENT: Texas is a great place! But I can understand the need to want to be prepared.
+USER: do you have a job
+AGENT: No I am going to give this whole stay at home mom thing a shot
+USER: oh thats nice, what do you plan to do in your free time?
+AGENT: I think I'll watch the soccer
+USER: do you like soccer
+AGENT: Who do you support?
+USER: i dont watch soccer
+AGENT: Who do you support?
+USER: if i had to choose, i would say the manchester united
+AGENT: They looked good last week at Wembley.
+USER: oh, i did not watch the match
+AGENT: Yes, they got in the red zone but never scored.
+USER: do you watch soccer often
+AGENT: Who do you support?
+USER: okay bye
+AGENT: Goodbye!

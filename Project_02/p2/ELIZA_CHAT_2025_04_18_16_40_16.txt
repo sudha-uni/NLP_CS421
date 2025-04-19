@@ -1,0 +1,30 @@
+USER: hello eliza
+AGENT: Hi there... how are you today?
+USER: i am good, how are you?
+AGENT: How do you feel about being good, how am you?
+USER: are you feeling good too?
+AGENT: Would you prefer it if I were not feeling good too?
+USER: i am feeling depressed
+AGENT: How long have you been feeling depressed?
+USER: since a few years ago
+AGENT: since a few years ago.
+USER: yes, and i think i need to get therapy
+AGENT: You seem quite sure.
+USER: yes i am. but im worried because therapy is very expensive here
+AGENT: You seem quite sure.
+USER: yeah.....what about you?
+AGENT: Please consider whether you can answer your own question.
+USER: never mind, i ate indian cuisine after a long time today
+AGENT: Very interesting.
+USER: i love indian cuisine
+AGENT: I see.  And what does that tell you?
+USER: i guess its because im indian
+AGENT: Can you elaborate on that?
+USER: i am from india, so it makes sense that i love indian cuisine the most
+AGENT: How do you feel about being from india, so it makes sense that you love indian cuisine the most?
+USER: i feel good about that
+AGENT: When do you usually feel good about that?
+USER: when im eating
+AGENT: Why do you say that when im eating?
+USER: nevermind, bye
+AGENT: Goodbye!

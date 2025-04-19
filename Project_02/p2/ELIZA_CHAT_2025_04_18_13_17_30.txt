@@ -1,0 +1,24 @@
+USER: hi
+AGENT: Why do you say that hi?
+USER: it means hello
+AGENT: it means hello.
+USER: yes, what are you doing?
+AGENT: You seem quite sure.
+USER: yes im sure about that
+AGENT: OK, but can you elaborate a bit?
+USER: never mind, what are you doing?
+AGENT: Please consider whether you can answer your own question.
+USER: i dont think i can answer that question myself?
+AGENT: Do you want to think you can answer that question myself?
+USER: no its okay, i just got a cat
+AGENT: Why do you say that no its okay, you just got a cat?
+USER: its because i just got a cat
+AGENT: Let's change focus a bit... Tell me about your family.
+USER: my family is very caring
+AGENT: Why do you say that your family is very caring?
+USER: because they love me and take care of me
+AGENT: Is that the real reason?
+USER: yes it is
+AGENT: You seem quite sure.
+USER: okay bye
+AGENT: Goodbye!

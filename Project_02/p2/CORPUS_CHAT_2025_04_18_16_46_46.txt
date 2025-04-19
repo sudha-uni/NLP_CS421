@@ -1,0 +1,22 @@
+USER: hello, i just bought a house
+AGENT: Wow! That's exciting! Was it what you were looking for?
+USER: yes it is, im so happy
+AGENT: Are you going to a restaurant or making it yourself?
+USER: do you have a house?
+AGENT: I have only been looking. Nothing in my price range yet
+USER: oh okay, im really hungry
+AGENT: Divorce him
+USER: no im saying that im hungry, i need to eat food
+AGENT: Divorce him
+USER: okay never mind, who are you
+AGENT: But I should have known better. I cry about it every day.
+USER: what do you cry about?
+AGENT: My grandma died 5 weeks ago. I am still sad.
+USER: tell me
+AGENT: i got payed , went shopping ate dinner, then my friend messaged me asking for his money .... i had totally forgot about this
+USER: oh....you have a grandma?
+AGENT: She is the sweetest woman I have ever met
+USER: oh cool
+AGENT: And beer.. There has to be beer.
+USER: okay bye then
+AGENT: Goodbye!
